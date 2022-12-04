@@ -12,3 +12,13 @@ Project done through INFO-I 421: Data Mining.
 3. Development of logistic regression model to predict likelihood of developing CVD 
 
 **Required Files:**
+- Preprocessing.R
+- ExploratoryAnalysis.R
+- LogisticRegression.R
+
+**Input File:**
+- Diabetes_Dataset.csv
+
+**Output Files:**
+- Cleaned_Diabetes_Dataset.csv
+- Predicted_Diabetes_Dataset.csv
